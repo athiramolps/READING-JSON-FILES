@@ -1,1 +1,2 @@
 # READING-JSON-FILES
+A JSON (JavaScript Object Notation) file is a file that stores simple data structures and objects in JavaScript Object Notation (JSON) format, which is a standard data interchange format. It is primarily used to transmit data between a server and a web application, as an alternative to XML. JSON files are lightweight, text-based, and easy for humans to read and write, as well as easy for machines to parse and generate.
